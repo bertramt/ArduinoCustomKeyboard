@@ -30,5 +30,4 @@ GND - (I used both terminals so that I didn't have too many wires in one screw t
 ```
 
 ## Images
-![Inside](https://github.com/bertramt/ArduinoCustomKeyboard/raw/master/Images/KeyboardInside.jpg)
-![Outside](https://github.com/bertramt/ArduinoCustomKeyboard/raw/master/Images/KeyboardOutside.jpg)
+![Inside](https://github.com/bertramt/ArduinoCustomKeyboard/raw/master/Images/KeyboardInside.jpg) ![Outside](https://github.com/bertramt/ArduinoCustomKeyboard/raw/master/Images/KeyboardOutside.jpg)
